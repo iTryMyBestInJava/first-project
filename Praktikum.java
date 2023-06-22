@@ -1,1 +1,3 @@
-Public class Praktikum {}
+Public class Praktikum {
+public stativ void main(){}
+}
